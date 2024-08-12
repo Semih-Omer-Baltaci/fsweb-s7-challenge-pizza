@@ -61,8 +61,30 @@ Proje iki zorluk aşamalı,
 
 ### Görev 1: Proje Kurulumu
 
-- [ ] Sağ üstteki "Use this template" butonu ile, proje taslağının bir kopyasını oluşturun.
+- [ ] 1. **Create Repo From Template & Clone:**
+
+   - Sağ üstteki yeşil "Use this template" butonu ile, bir kopya oluşturun. işlemi tamamlandıktan sonra, kendi GitHub hesabınızda yer alan depo bağlantısını kopyalayın.
+   - VS Code'u açın ve terminali başlatın. Aşağıdaki komutu kullanarak depoyu bilgisayarınıza klonlayın:
+     ```sh
+     git clone <Yeni-Repo-URL'niz>
+     ```
+   - Örnek:
+     ```sh
+     git clone https://github.com/sizin-hesabiniz/fsweb-s6-bonus-challenge-react-pizza
+     ```
+
+2. **VS Code'da Geliştirmeye Başlamak:**
+   - VS Code'u açın ve `File -> Open Folder` seçeneğiyle projeyi açın.
+
+- Terminalde aşağıdaki komutları sırasıyla çalıştırarak proje bağımlılıklarını yükleyin ve projeyi başlatın:
+  ```sh
+  npm install
+  npm run dev
+  ```
+
 - [ ] Yeni reponuzu bilgisayarınıza klonlayın
+
+3. **Geliştirmeye Başlayın** 🤓 👩‍💻 🧑‍💻
 - [ ] Main branch üzerinde çalışın
 - [ ] Comitinizi pushlayın: `git push origin main`
 - [ ] Farklı paketler kullanmaya çalışın.
