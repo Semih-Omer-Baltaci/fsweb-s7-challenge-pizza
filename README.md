@@ -70,7 +70,7 @@ Proje iki zorluk aşamalı,
      ```
    - Örnek:
      ```sh
-     git clone https://github.com/sizin-hesabiniz/fsweb-s6-bonus-challenge-react-pizza
+     git clone https://github.com/sizin-hesabiniz/fsweb-s7-challenge-pizza
      ```
 
 2. **VS Code'da Geliştirmeye Başlamak:**
