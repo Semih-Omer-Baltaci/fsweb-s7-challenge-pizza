@@ -1,0 +1,22 @@
+.header-content1 {
+    background-color: red;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    flex-direction: column;
+   
+}
+
+.teknolojik-container {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+    
+    
+
+
+
